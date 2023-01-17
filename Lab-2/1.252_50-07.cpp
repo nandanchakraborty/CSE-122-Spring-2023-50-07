@@ -1,4 +1,4 @@
-//code force problem no-158A
+//code force problem no-231A
 #include<iostream>
 using namespace std;
 int main ()
